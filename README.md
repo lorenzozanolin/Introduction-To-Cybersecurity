@@ -1,2 +1,2 @@
 # Introduction-To-Cybersecurity
-Practical Exercises proposed in the Intro2CS course
+Practical Exercises proposed in the Intro2CS course.
